@@ -2,13 +2,13 @@
 
 ## About Me ⚡
 
-Hello 👋, I'm Duyen(she/her), a front-end developer/React developer from VietNam.
+Hello there! 👋 I'm Duyen(she/her). I'm a skilled Frontend Web Developer with a strong focus on React development, hailing from beautiful Vietnam.
 
-I am an experienced Frontend Web Developer and I have experience building with ReactJs, NextJs, ExpressJs, NodeJs, Firebase.
+My journey in the tech world began at the University of Science in Vietnam, where I dedicated 4 to 4.5 years to honing my Information Technology skills. Since then, I've been putting my knowledge into practice, working as a Frontend Developer for over 2 years.
 
-I've learned Infomation Technology at University of Science in Viet Nam for 4 - 4.5 years. After that I worked as FE developer.
+My toolkit includes ReactJS, NextJS, ExpressJS, NodeJS, and Firebase, allowing me to craft dynamic and efficient web applications. Currently, I'm a proud member of a talented frontend development team. Together, we create robust admin dashboards that offer comprehensive insights into essential data, reports, and KPIs, streamlining day-to-day operations.
 
-For now, about over 2+ years of experience, I'm a team member of frontend developers to build robust admin dashboards that provide comprehensive overviews of key data, reports, and KPIs for efficient day-to-day operations.
+Feel free to reach out if you have any questions. I'm here to help! 🚀
 
 ## Technical Skills & Tools
 
